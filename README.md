@@ -1,6 +1,6 @@
 # LocalEats — Qualidade e Testes de Software
 
-Repositório do grupo com as Atividades 1, 2 e 3.
+Repositório do grupo com as Atividades 1, 2 e 3, referentes à disciplina de Qualidade de Software (PBL), projeto [LocalEats](https://local-eats-unisenac.vercel.app/).
 
 ## Integrantes
 
@@ -10,6 +10,12 @@ Repositório do grupo com as Atividades 1, 2 e 3.
 
 ## Atividades
 
-- [Atividade 1 — Fundamentos e Características da Qualidade no LocalEats](atividades/Atividade%201%20-%20Fundamentos%20e%20Caracteristicas%20da%20Qualidade%20no%20LocalEats.docx)
-- [Atividade 2 — Organização da Qualidade no LocalEats](atividades/Atividade%202%20-%20Organizacao%20da%20Qualidade%20no%20LocalEats.docx)
-- [Atividade 3 — Estratégia e Projeto de Testes do LocalEats](atividades/Atividade%203%20-%20Estrategia%20e%20Projeto%20de%20Testes%20do%20LocalEats.docx)
+- [Atividade 1 — Fundamentos e Características da Qualidade no LocalEats](atividades/atividade-01/atividade-01-fundamentos-qualidade.md)
+- [Atividade 2 — Organização da Qualidade no LocalEats](atividades/atividade-02/atividade-02-papeis-responsabilidades.md)
+- [Atividade 3 — Estratégia e Projeto de Testes do LocalEats](atividades/atividade-03/atividade-03-estrategia-projeto-testes.md)
+
+Os enunciados originais de cada atividade (`.docx`) estão na pasta [enunciados/](enunciados/).
+
+## Evidências
+
+As capturas de tela da exploração da Atividade 1 devem ser adicionadas em [atividades/atividade-01/evidencias/](atividades/atividade-01/evidencias/), com os nomes de arquivo indicados na tabela da Tarefa 2 do documento da Atividade 1.
